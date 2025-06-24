@@ -202,7 +202,7 @@ function Contact_card()
           <div className="con">
             <a href="https://www.linkedin.com/in/vaibhav-salve2005"><img src="linkdin.jpeg"></img></a>
             <a href="https://github.com/abcdjjejejsj"><img src="github.png" id="git"></img></a>
-            <a href="https://www.instagram.com/vaibhavsalve25?igsh=MWM5dnZqZmF2b3NmZg=="><img src="instagram.png" id="insta"></img></a>
+            <a href="https://www.instagram.com/vaibhavsalve25?igsh=MWM5dnZqZmF2b3NmZg=="><img src="Instagram.png" id="insta"></img></a>
           </div>
       </div>
     </div>
