@@ -180,8 +180,10 @@ function Project()
         <Project_card hed="3.Calculator" demo="https://web-projects-hytt.vercel.app/" code="https://github.com/abcdjjejejsj/Web-projects/tree/main/03_Calculator"></Project_card>
         <Project_card hed="4.Tic Tac Toe" demo="https://tictactoebyvaibhav.vercel.app/" code="https://github.com/abcdjjejejsj/Web-projects/tree/main/04_Tic_Tac_Toe"></Project_card>
         <Project_card hed="5.Quiz" demo="https://javaquizbyvaibhav.vercel.app/" code="https://github.com/abcdjjejejsj/Web-projects/tree/main/06_Java_quiz"></Project_card>
+        <Project_card hed="6.Voting Machine" demo="https://abcdjjejejsj.github.io/voting_machine/" code="https://github.com/abcdjjejejsj/voting_machine"></Project_card>
       </div>
     </div>
+ 
   );
 
 }
